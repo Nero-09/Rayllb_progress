@@ -18,3 +18,7 @@ target_link_libraries(game raylib)
 
 add_executable(timestable src/timesTableCircle.cpp)
 target_link_libraries(timestable raylib)
+
+# add_executable(practice src/practice.cpp)
+# target_link_libraries(practice raylib)
+
